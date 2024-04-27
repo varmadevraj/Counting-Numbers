@@ -1,2 +1,2 @@
-In this project is about number count, 
+This project is about number counting, 
 i.e, Increment, Decrement and Reset
